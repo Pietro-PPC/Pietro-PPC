@@ -1,4 +1,4 @@
-### Olá, sou o Pietro!
+### Hello, I am Pietro!
 
 <div align="center">
   <a href="https://github.com/Pietro-PPC">
