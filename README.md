@@ -1,6 +1,6 @@
 ### Hello, I am Pietro!
 
-I work with back-end development in NodeJS and relational databases.
+I'm currently in a research internship at McGill University, in Montreal, Canada.
 
 Beyond my job, some of my main interests are:
 - Computer graphics;
