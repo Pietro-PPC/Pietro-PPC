@@ -1,6 +1,6 @@
 ### Hello, I am Pietro!
 
-I'm currently in a research internship at McGill University, in Montreal, Canada.
+I am currently a software developer at ProFUSION.
 
 Beyond my job, some of my main interests are:
 - Computer graphics;
