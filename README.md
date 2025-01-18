@@ -1,11 +1,10 @@
 ### Hello, I am Pietro!
 
-I am currently a software developer at ProFUSION.
-
-Beyond my job, some of my main interests are:
-- Computer graphics;
+Some of my interests are:
+- Data science;
 - Simulations;
 - Competitive programming;
 - Parallel computing with GPUs.
+- Computer graphics;
 
-The language I most like to use in my personal projects is C++, but I also have projects in C and Python.
+The language I most like to use in my personal projects is C++, but I also have projects in Python and C.
